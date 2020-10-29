@@ -10,7 +10,7 @@ Through this app, I dived deep into some of the fundamental concepts of ReactJS 
 ![App Screenshot](screenshots/1.png)
 
 ## Live Demo 
-[ToDoList App](https://todolistwithreactjs.herokuapp.com/)
+[https://todolistwithreactjs.herokuapp.com/](https://todolistwithreactjs.herokuapp.com/)
 
 ## Developed using
 * Html
