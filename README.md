@@ -14,8 +14,8 @@ Through this app, I dived deep into some of the fundamental concepts of ReactJS 
 
 ## Developed using
 * Html
-* css
-* javascript
+* Css
+* Javascript
 * ReactJS
 
 ## Setup:
