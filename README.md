@@ -4,7 +4,7 @@ A ToDoList App where I was able to add some new items by clicking the add button
 Through this app, I dived deep into some of the fundamental concepts of ReactJS like working with components, React hooks, states, event handling in react, working with and managing the component tree.  
 
 ## Author
-> Nishkarsh01
+> Nishkarsh Dubb
 
 ## Screenshots
 ![App Screenshot](screenshots/1.png)
